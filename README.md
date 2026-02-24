@@ -32,4 +32,4 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (Add your link)
+- LinkedIn: https://www.linkedin.com/in/praghathish-gt-8a5824329?utm_source=share_via&utm_content=profile&utm_medium=member_android
