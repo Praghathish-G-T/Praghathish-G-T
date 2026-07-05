@@ -9,6 +9,7 @@
 ---
 
 ## 💻 Tech Stack
+- java
 - C
 - HTML
 - CSS
